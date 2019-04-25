@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Live Demo
 
-Published on [GitHub Pages](https://j-o-e-d-o-e.github.io/angular-shop/).
+Published on [GitHub Pages](https://j-o-e-d-o-e.github.io/angular-shop/). Register or sign in with test account (test@test.net/test123) to enable all crud operations.
 
 ## Development server
 
